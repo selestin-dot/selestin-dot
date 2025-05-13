@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rostyslavkovtun.rostyslavkovtun&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=selestin-dot.selestin-dot&"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Accomplished Full Stack Developer with 5+ years of expertise in web and blockchain development. I am passionate about delivering high-quality solutions and continuously expanding my technical knowledge to stay at the forefront of technology.</p>
+<p align="left">Full Stack Developer with 5+ years of experience specializing in modern frontend development. I help businesses build scalable, performant web applications that deliver exceptional user experiences. My expertise in React, Vue, and Svelte, combined with strong backend skills in Node.js and Laravel, allows me to deliver end-to-end solutions that drive business growth.</p>
 
 ###
 
@@ -26,23 +26,62 @@
 
 ###
 
-<p align="left">• Design and implement scalable applications through the complete development lifecycle, from requirements gathering to deployment and maintenance<br>• Write clean, efficient, and well-documented code following industry best practices<br>• Develop comprehensive automated testing suites to ensure code quality and reliability<br>• Architect and enhance systems to meet evolving business requirements <br>• Quickly grasp complex systems and collaborate effectively with team members to resolve technical challenges<br>• Deliver exceptional service to both internal stakeholders and external clients<br>• Excel both independently and as a collaborative team member</p>
+<p align="left">• Frontend: React/Next, Vue/Nuxt, Svelte/SvelteKit, Astro, GSAP, Lenis, TailwindCSS, Bootstrap, MUI, Vuetify<br>• Backend: Node.js, Express, NestJS, PHP, Laravel<br>• Database: MySQL, PostgreSQL, MongoDB<br>• DevOps: Git, Docker, AWS, CI/CD <br>• Tools: Webpack, Vite, ESLint</p>
 
 ###
 
-<h4 align="left">Current Focus:</h4>
+<h4 align="left">Key Achievements:</h4>
 
 ###
 
-<p align="left">👨🏽‍💻 Working as a freelance developer across multiple platforms, delivering custom solutions for diverse clients<br>👨‍🎓 Committed to continuous learning and professional growth, constantly exploring new technologies and methodologies<br>🤝 Open to new opportunities and collaborations</p>
+<p align="left">• Reduced application bundle size by 60% through code splitting and optimization<br>• Implemented a design system that improved development speed by 30%<br>• Successfully migrated legacy applications to modern frameworks<br>• Achieved 95% test coverage across multiple projects <br>• Reduced API response time by 50% through optimization</p>
 
 ###
 
-<h4 align="left">Let's Connect:</h4>
+<h4 align="left">Services I Offer:</h4>
 
 ###
 
-<p align="left">📫 Available for consulting, project collaboration, or full-time opportunities<br>🌐 Portfolio and work samples available upon request</p>
+<p align="left">
+  ✅ Custom Web Application Development <br>
+  ✅ Frontend Architecture & Implementation <br>
+  ✅ API Development & Integration <br>
+  ✅ Performance Optimization <br>
+  ✅ Legacy System Modernization <br>
+  ✅ UI/UX Implementation <br>
+  ✅ Code Review & Technical Consulting
+</p>
+
+###
+
+<h4 align="left">Why Choose Me:</h4>
+
+###
+
+<p align="left">
+  ✅ 100% Client Satisfaction Rate <br>
+  ✅ Clear Communication & Regular Updates <br>
+  ✅ On-time Delivery <br>
+  ✅ Clean, Maintainable Code <br>
+  ✅ Comprehensive Documentation <br>
+  ✅ Post-launch Support
+</p>
+
+###
+
+<h4 align="left">Let's Work Together!</h4>
+
+###
+
+<p align="left">
+  I'm passionate about creating solutions that help businesses grow. Whether you need a complete web application or specific features implemented, I'm here to help you achieve your goals.
+</p>
+
+###
+
+<p align="left">
+  Feel free to reach out to discuss your project requirements!
+</p>
 
 ###
 
